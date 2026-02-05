@@ -19,6 +19,10 @@
     {
       "id": "colors",
       "name": "Colors"
+    },
+    {
+      "id": "States",
+      "name": "States"
     }
   ],
   "words": [
@@ -5191,6 +5195,15 @@
       "themes": [
         "scrabble",
         "nature"
+      ]
+    },
+    {
+      "id": 733,
+      "word": "MAINE",
+      "length": 5,
+      "category": "Place",
+      "themes": [
+        "States"
       ]
     }
   ]
