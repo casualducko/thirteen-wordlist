@@ -1571,43 +1571,43 @@
       "id": 234,
       "word": "ACCENT",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 235,
       "word": "ACTION",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 236,
       "word": "ALARM",
       "length": 5,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 237,
       "word": "AMOUNT",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 238,
       "word": "ANCHOR",
       "length": 6,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 239,
       "word": "ANGEL",
       "length": 5,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 240,
       "word": "ARBOR",
       "length": 5,
-      "category": "Noun",
+      "category": "Building",
       "themes": [
         "nature"
       ]
@@ -1616,7 +1616,7 @@
       "id": 241,
       "word": "BACKUP",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 242,
@@ -1628,7 +1628,7 @@
       "id": 243,
       "word": "BALLER",
       "length": 6,
-      "category": "Noun",
+      "category": "Person",
       "themes": [
         "sports"
       ]
@@ -1643,19 +1643,19 @@
       "id": 245,
       "word": "BASIS",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 246,
       "word": "BATCH",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 247,
       "word": "BATTLE",
       "length": 6,
-      "category": "Noun",
+      "category": "Concept",
       "themes": [
         "sports"
       ]
@@ -1664,7 +1664,7 @@
       "id": 248,
       "word": "BEACON",
       "length": 6,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 249,
@@ -1676,7 +1676,7 @@
       "id": 250,
       "word": "BEAUTY",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 251,
@@ -1688,7 +1688,7 @@
       "id": 252,
       "word": "BIKER",
       "length": 5,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 253,
@@ -1703,7 +1703,7 @@
       "id": 254,
       "word": "BLAZE",
       "length": 5,
-      "category": "Noun",
+      "category": "Weather",
       "themes": [
         "scrabble"
       ]
@@ -1712,7 +1712,7 @@
       "id": 255,
       "word": "BLAZER",
       "length": 6,
-      "category": "Noun",
+      "category": "Clothing",
       "themes": [
         "scrabble"
       ]
@@ -1721,7 +1721,7 @@
       "id": 256,
       "word": "BLISS",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 257,
@@ -1736,31 +1736,31 @@
       "id": 258,
       "word": "BLOUSE",
       "length": 6,
-      "category": "Noun"
+      "category": "Clothing"
     },
     {
       "id": 259,
       "word": "BOILER",
       "length": 6,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 260,
       "word": "BONUS",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 261,
       "word": "BOOTH",
       "length": 5,
-      "category": "Noun"
+      "category": "Furniture"
     },
     {
       "id": 262,
       "word": "BORDER",
       "length": 6,
-      "category": "Noun"
+      "category": "Place"
     },
     {
       "id": 263,
@@ -1772,7 +1772,7 @@
       "id": 264,
       "word": "BREEZE",
       "length": 6,
-      "category": "Noun",
+      "category": "Weather",
       "themes": [
         "scrabble"
       ]
@@ -1781,25 +1781,25 @@
       "id": 265,
       "word": "BRICK",
       "length": 5,
-      "category": "Noun"
+      "category": "Material"
     },
     {
       "id": 266,
       "word": "BRIDE",
       "length": 5,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 267,
       "word": "BRIDGE",
       "length": 6,
-      "category": "Noun"
+      "category": "Building"
     },
     {
       "id": 268,
       "word": "BROOK",
       "length": 5,
-      "category": "Noun",
+      "category": "Landscape",
       "themes": [
         "nature"
       ]
@@ -1808,7 +1808,7 @@
       "id": 269,
       "word": "BROOM",
       "length": 5,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 270,
@@ -1820,13 +1820,13 @@
       "id": 271,
       "word": "BUCKET",
       "length": 6,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 272,
       "word": "BURDEN",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 273,
@@ -1838,13 +1838,13 @@
       "id": 274,
       "word": "CABLE",
       "length": 5,
-      "category": "Noun"
+      "category": "Material"
     },
     {
       "id": 275,
       "word": "CAMERA",
       "length": 6,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 276,
@@ -1856,43 +1856,43 @@
       "id": 277,
       "word": "CANOE",
       "length": 5,
-      "category": "Noun"
+      "category": "Vehicle"
     },
     {
       "id": 278,
       "word": "CARAT",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 279,
       "word": "CARGO",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 280,
       "word": "CARPET",
       "length": 6,
-      "category": "Noun"
+      "category": "Furniture"
     },
     {
       "id": 281,
       "word": "CHAIR",
       "length": 5,
-      "category": "Noun"
+      "category": "Furniture"
     },
     {
       "id": 282,
       "word": "CHANCE",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 283,
       "word": "CHART",
       "length": 5,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 284,
@@ -1904,37 +1904,37 @@
       "id": 285,
       "word": "CHESS",
       "length": 5,
-      "category": "Noun"
+      "category": "Sport & Game"
     },
     {
       "id": 286,
       "word": "CHOICE",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 287,
       "word": "CIRCLE",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 288,
       "word": "CLOCK",
       "length": 5,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 289,
       "word": "CLOSET",
       "length": 6,
-      "category": "Noun"
+      "category": "Furniture"
     },
     {
       "id": 290,
       "word": "CLOUD",
       "length": 5,
-      "category": "Noun",
+      "category": "Weather",
       "themes": [
         "nature"
       ]
@@ -1943,7 +1943,7 @@
       "id": 291,
       "word": "COFFEE",
       "length": 6,
-      "category": "Noun",
+      "category": "Drink",
       "themes": [
         "food"
       ]
@@ -1952,49 +1952,49 @@
       "id": 292,
       "word": "CORNER",
       "length": 6,
-      "category": "Noun"
+      "category": "Place"
     },
     {
       "id": 293,
       "word": "COTTON",
       "length": 6,
-      "category": "Noun"
+      "category": "Material"
     },
     {
       "id": 294,
       "word": "COUCH",
       "length": 5,
-      "category": "Noun"
+      "category": "Furniture"
     },
     {
       "id": 295,
       "word": "COUPLE",
       "length": 6,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 296,
       "word": "COUSIN",
       "length": 6,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 297,
       "word": "CRADLE",
       "length": 6,
-      "category": "Noun"
+      "category": "Furniture"
     },
     {
       "id": 298,
       "word": "CREDIT",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 299,
       "word": "CREEK",
       "length": 5,
-      "category": "Noun",
+      "category": "Landscape",
       "themes": [
         "nature"
       ]
@@ -2003,49 +2003,49 @@
       "id": 300,
       "word": "CROWD",
       "length": 5,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 301,
       "word": "CROWN",
       "length": 5,
-      "category": "Noun"
+      "category": "Clothing"
     },
     {
       "id": 302,
       "word": "CURVE",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 303,
       "word": "DANGER",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 304,
       "word": "DEPTH",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 305,
       "word": "DEVICE",
       "length": 6,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 306,
       "word": "DEVIL",
       "length": 5,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 307,
       "word": "DIARY",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 308,
@@ -2057,7 +2057,7 @@
       "id": 309,
       "word": "DINNER",
       "length": 6,
-      "category": "Noun",
+      "category": "Food",
       "themes": [
         "food"
       ]
@@ -2066,31 +2066,31 @@
       "id": 310,
       "word": "DITCH",
       "length": 5,
-      "category": "Noun"
+      "category": "Landscape"
     },
     {
       "id": 311,
       "word": "DOLLAR",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 312,
       "word": "DOMAIN",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 313,
       "word": "DOUBT",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 314,
       "word": "DRAFT",
       "length": 5,
-      "category": "Noun",
+      "category": "Concept",
       "themes": [
         "sports"
       ]
@@ -2099,25 +2099,25 @@
       "id": 315,
       "word": "DRAWER",
       "length": 6,
-      "category": "Noun"
+      "category": "Furniture"
     },
     {
       "id": 316,
       "word": "DREAM",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 317,
       "word": "DWARF",
       "length": 5,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 318,
       "word": "EARTH",
       "length": 5,
-      "category": "Noun",
+      "category": "Space",
       "themes": [
         "nature"
       ]
@@ -2126,7 +2126,7 @@
       "id": 319,
       "word": "EFFORT",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 320,
@@ -2138,31 +2138,31 @@
       "id": 321,
       "word": "EMPIRE",
       "length": 6,
-      "category": "Noun"
+      "category": "Place"
     },
     {
       "id": 322,
       "word": "ENERGY",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 323,
       "word": "ESSAY",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 324,
       "word": "EVENT",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 325,
       "word": "EXPERT",
       "length": 6,
-      "category": "Noun",
+      "category": "Person",
       "themes": [
         "scrabble"
       ]
@@ -2171,19 +2171,19 @@
       "id": 326,
       "word": "FAITH",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 327,
       "word": "FATHER",
       "length": 6,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 328,
       "word": "FEAST",
       "length": 5,
-      "category": "Noun",
+      "category": "Food",
       "themes": [
         "food"
       ]
@@ -2192,37 +2192,37 @@
       "id": 329,
       "word": "FELLOW",
       "length": 6,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 330,
       "word": "FEVER",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 331,
       "word": "FIBER",
       "length": 5,
-      "category": "Noun"
+      "category": "Material"
     },
     {
       "id": 332,
       "word": "FIGURE",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 333,
       "word": "FILTER",
       "length": 6,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 334,
       "word": "FLAIR",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 335,
@@ -2237,13 +2237,13 @@
       "id": 336,
       "word": "FLASK",
       "length": 5,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 337,
       "word": "FLAVOR",
       "length": 6,
-      "category": "Noun",
+      "category": "Concept",
       "themes": [
         "food"
       ]
@@ -2252,25 +2252,25 @@
       "id": 338,
       "word": "FLEET",
       "length": 5,
-      "category": "Noun"
+      "category": "Vehicle"
     },
     {
       "id": 339,
       "word": "FLIGHT",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 340,
       "word": "FLOCK",
       "length": 5,
-      "category": "Noun"
+      "category": "Animal"
     },
     {
       "id": 341,
       "word": "FLOWER",
       "length": 6,
-      "category": "Noun",
+      "category": "Flower",
       "themes": [
         "nature"
       ]
@@ -2279,25 +2279,25 @@
       "id": 342,
       "word": "FRAME",
       "length": 5,
-      "category": "Noun"
+      "category": "Furniture"
     },
     {
       "id": 343,
       "word": "FRIDGE",
       "length": 6,
-      "category": "Noun"
+      "category": "Furniture"
     },
     {
       "id": 344,
       "word": "FRIEND",
       "length": 6,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 345,
       "word": "FROST",
       "length": 5,
-      "category": "Noun",
+      "category": "Weather",
       "themes": [
         "nature"
       ]
@@ -2306,73 +2306,73 @@
       "id": 346,
       "word": "FROTH",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 347,
       "word": "FROWN",
       "length": 5,
-      "category": "Noun"
+      "category": "Verb"
     },
     {
       "id": 348,
       "word": "FUTURE",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 349,
       "word": "GARAGE",
       "length": 6,
-      "category": "Noun"
+      "category": "Building"
     },
     {
       "id": 350,
       "word": "GHOST",
       "length": 5,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 351,
       "word": "GIANT",
       "length": 5,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 352,
       "word": "GLOBE",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 353,
       "word": "GLOOM",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 354,
       "word": "GLOSS",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 355,
       "word": "GLOVE",
       "length": 5,
-      "category": "Noun"
+      "category": "Clothing"
     },
     {
       "id": 356,
       "word": "GRACE",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 357,
       "word": "GRASS",
       "length": 5,
-      "category": "Noun",
+      "category": "Landscape",
       "themes": [
         "nature"
       ]
@@ -2381,19 +2381,19 @@
       "id": 358,
       "word": "GRAVEL",
       "length": 6,
-      "category": "Noun"
+      "category": "Material"
     },
     {
       "id": 359,
       "word": "GRILL",
       "length": 5,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 360,
       "word": "GROVE",
       "length": 5,
-      "category": "Noun",
+      "category": "Landscape",
       "themes": [
         "nature"
       ]
@@ -2402,43 +2402,43 @@
       "id": 361,
       "word": "GROWTH",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 362,
       "word": "GUITAR",
       "length": 6,
-      "category": "Noun"
+      "category": "Instrument"
     },
     {
       "id": 363,
       "word": "HAMMER",
       "length": 6,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 364,
       "word": "HANDLE",
       "length": 6,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 365,
       "word": "HASTE",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 366,
       "word": "HATCH",
       "length": 5,
-      "category": "Noun"
+      "category": "Verb"
     },
     {
       "id": 367,
       "word": "HAZARD",
       "length": 6,
-      "category": "Noun",
+      "category": "Concept",
       "themes": [
         "scrabble"
       ]
@@ -2447,13 +2447,13 @@
       "id": 368,
       "word": "HEALTH",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 369,
       "word": "HIKING",
       "length": 6,
-      "category": "Noun",
+      "category": "Sport & Game",
       "themes": [
         "sports"
       ]
@@ -2462,43 +2462,43 @@
       "id": 370,
       "word": "HINGE",
       "length": 5,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 371,
       "word": "HOBBY",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 372,
       "word": "HONOR",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 373,
       "word": "HORROR",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 374,
       "word": "HOUSE",
       "length": 5,
-      "category": "Noun"
+      "category": "Building"
     },
     {
       "id": 375,
       "word": "HUNGER",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 376,
       "word": "HUNTER",
       "length": 6,
-      "category": "Noun",
+      "category": "Profession",
       "themes": [
         "sports"
       ]
@@ -2507,31 +2507,31 @@
       "id": 377,
       "word": "IMPACT",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 378,
       "word": "INCOME",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 379,
       "word": "INJURY",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 380,
       "word": "INSECT",
       "length": 6,
-      "category": "Noun"
+      "category": "Animal"
     },
     {
       "id": 381,
       "word": "JACKET",
       "length": 6,
-      "category": "Noun",
+      "category": "Clothing",
       "themes": [
         "scrabble"
       ]
@@ -2540,7 +2540,7 @@
       "id": 382,
       "word": "JEWEL",
       "length": 5,
-      "category": "Noun",
+      "category": "Material",
       "themes": [
         "scrabble"
       ]
@@ -2549,7 +2549,7 @@
       "id": 383,
       "word": "JOINT",
       "length": 5,
-      "category": "Noun",
+      "category": "Concept",
       "themes": [
         "scrabble"
       ]
@@ -2558,7 +2558,7 @@
       "id": 384,
       "word": "JOKER",
       "length": 5,
-      "category": "Noun",
+      "category": "Person",
       "themes": [
         "scrabble"
       ]
@@ -2567,7 +2567,7 @@
       "id": 385,
       "word": "JUICE",
       "length": 5,
-      "category": "Noun",
+      "category": "Drink",
       "themes": [
         "scrabble",
         "food"
@@ -2577,97 +2577,97 @@
       "id": 386,
       "word": "KNIGHT",
       "length": 6,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 387,
       "word": "LABEL",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 388,
       "word": "LAPTOP",
       "length": 6,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 389,
       "word": "LASER",
       "length": 5,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 390,
       "word": "LATCH",
       "length": 5,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 391,
       "word": "LAYER",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 392,
       "word": "LEADER",
       "length": 6,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 393,
       "word": "LEASH",
       "length": 5,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 394,
       "word": "LEGEND",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 395,
       "word": "LESSON",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 396,
       "word": "LETTER",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 397,
       "word": "MAGIC",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 398,
       "word": "MAGNET",
       "length": 6,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 399,
       "word": "MANAGE",
       "length": 6,
-      "category": "Noun"
+      "category": "Verb"
     },
     {
       "id": 400,
       "word": "MANUAL",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 401,
       "word": "MAPLE",
       "length": 5,
-      "category": "Noun",
+      "category": "Material",
       "themes": [
         "nature"
       ]
@@ -2676,13 +2676,13 @@
       "id": 402,
       "word": "MARKING",
       "length": 7,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 403,
       "word": "MATCH",
       "length": 5,
-      "category": "Noun",
+      "category": "Tool",
       "themes": [
         "sports"
       ]
@@ -2691,7 +2691,7 @@
       "id": 404,
       "word": "MEDAL",
       "length": 5,
-      "category": "Noun",
+      "category": "Concept",
       "themes": [
         "sports"
       ]
@@ -2700,67 +2700,67 @@
       "id": 405,
       "word": "MEMBER",
       "length": 6,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 406,
       "word": "MEMORY",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 407,
       "word": "MERIT",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 408,
       "word": "METHOD",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 409,
       "word": "MIRTH",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 410,
       "word": "MOMENT",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 411,
       "word": "MORALE",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 412,
       "word": "MOTOR",
       "length": 5,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 413,
       "word": "MOTTO",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 414,
       "word": "MOVIE",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 415,
       "word": "MUSCLE",
       "length": 6,
-      "category": "Noun",
+      "category": "Concept",
       "themes": [
         "sports"
       ]
@@ -2769,61 +2769,61 @@
       "id": 416,
       "word": "MUSIC",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 417,
       "word": "NATION",
       "length": 6,
-      "category": "Noun"
+      "category": "Place"
     },
     {
       "id": 418,
       "word": "NATURE",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 419,
       "word": "NERVE",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 420,
       "word": "NIECE",
       "length": 5,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 421,
       "word": "NIGHT",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 422,
       "word": "NOISE",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 423,
       "word": "NOTCH",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 424,
       "word": "NOTION",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 425,
       "word": "OBJECT",
       "length": 6,
-      "category": "Noun",
+      "category": "Concept",
       "themes": [
         "scrabble"
       ]
@@ -2832,7 +2832,7 @@
       "id": 426,
       "word": "OCEAN",
       "length": 5,
-      "category": "Noun",
+      "category": "Landscape",
       "themes": [
         "nature"
       ]
@@ -2841,43 +2841,43 @@
       "id": 427,
       "word": "OPTION",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 428,
       "word": "ORBIT",
       "length": 5,
-      "category": "Noun"
+      "category": "Space"
     },
     {
       "id": 429,
       "word": "ORIGIN",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 430,
       "word": "OUTFIT",
       "length": 6,
-      "category": "Noun"
+      "category": "Clothing"
     },
     {
       "id": 431,
       "word": "PARADE",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 432,
       "word": "PEACE",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 433,
       "word": "PERSON",
       "length": 6,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 434,
@@ -2892,25 +2892,25 @@
       "id": 435,
       "word": "PHASE",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 436,
       "word": "PIANO",
       "length": 5,
-      "category": "Noun"
+      "category": "Instrument"
     },
     {
       "id": 437,
       "word": "PLANE",
       "length": 5,
-      "category": "Noun"
+      "category": "Vehicle"
     },
     {
       "id": 438,
       "word": "PLANET",
       "length": 6,
-      "category": "Noun"
+      "category": "Space"
     },
     {
       "id": 439,
@@ -2925,19 +2925,19 @@
       "id": 440,
       "word": "PRIDE",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 441,
       "word": "PRINCE",
       "length": 6,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 442,
       "word": "PRIZE",
       "length": 5,
-      "category": "Noun",
+      "category": "Concept",
       "themes": [
         "scrabble",
         "sports"
@@ -2947,13 +2947,13 @@
       "id": 443,
       "word": "PROFIT",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 444,
       "word": "QUILT",
       "length": 5,
-      "category": "Noun",
+      "category": "Furniture",
       "themes": [
         "scrabble"
       ]
@@ -2962,7 +2962,7 @@
       "id": 445,
       "word": "RECORD",
       "length": 6,
-      "category": "Noun",
+      "category": "Concept",
       "themes": [
         "sports"
       ]
@@ -2971,25 +2971,25 @@
       "id": 446,
       "word": "REIGN",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 447,
       "word": "REWARD",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 448,
       "word": "RIBBON",
       "length": 6,
-      "category": "Noun"
+      "category": "Material"
     },
     {
       "id": 449,
       "word": "RIVER",
       "length": 5,
-      "category": "Noun",
+      "category": "Landscape",
       "themes": [
         "nature"
       ]
@@ -2998,37 +2998,37 @@
       "id": 450,
       "word": "ROCKET",
       "length": 6,
-      "category": "Noun"
+      "category": "Vehicle"
     },
     {
       "id": 451,
       "word": "SAFETY",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 452,
       "word": "SAMPLE",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 453,
       "word": "SCENE",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 454,
       "word": "SCENT",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 455,
       "word": "SCORE",
       "length": 5,
-      "category": "Noun",
+      "category": "Concept",
       "themes": [
         "sports"
       ]
@@ -3037,7 +3037,7 @@
       "id": 456,
       "word": "SCOUT",
       "length": 5,
-      "category": "Noun",
+      "category": "Person",
       "themes": [
         "sports"
       ]
@@ -3046,13 +3046,13 @@
       "id": 457,
       "word": "SCREW",
       "length": 5,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 458,
       "word": "SEASON",
       "length": 6,
-      "category": "Noun",
+      "category": "Weather",
       "themes": [
         "sports"
       ]
@@ -3061,55 +3061,55 @@
       "id": 459,
       "word": "SHADE",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 460,
       "word": "SHAFT",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 461,
       "word": "SHELF",
       "length": 5,
-      "category": "Noun"
+      "category": "Furniture"
     },
     {
       "id": 462,
       "word": "SIGNAL",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 463,
       "word": "SISTER",
       "length": 6,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 464,
       "word": "SLOPE",
       "length": 5,
-      "category": "Noun"
+      "category": "Landscape"
     },
     {
       "id": 465,
       "word": "SMILE",
       "length": 5,
-      "category": "Noun"
+      "category": "Verb"
     },
     {
       "id": 466,
       "word": "SMOKE",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 467,
       "word": "SNACK",
       "length": 5,
-      "category": "Noun",
+      "category": "Food",
       "themes": [
         "food"
       ]
@@ -3118,25 +3118,25 @@
       "id": 468,
       "word": "SPADE",
       "length": 5,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 469,
       "word": "SPARK",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 470,
       "word": "SPEAR",
       "length": 5,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 471,
       "word": "SPICE",
       "length": 5,
-      "category": "Noun",
+      "category": "Food",
       "themes": [
         "food"
       ]
@@ -3145,25 +3145,25 @@
       "id": 472,
       "word": "SPINE",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 473,
       "word": "SPIRIT",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 474,
       "word": "SPOON",
       "length": 5,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 475,
       "word": "SPORT",
       "length": 5,
-      "category": "Noun",
+      "category": "Sport & Game",
       "themes": [
         "sports"
       ]
@@ -3172,25 +3172,25 @@
       "id": 476,
       "word": "SPOUT",
       "length": 5,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 477,
       "word": "STAIN",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 478,
       "word": "STAIR",
       "length": 5,
-      "category": "Noun"
+      "category": "Building"
     },
     {
       "id": 479,
       "word": "STAKE",
       "length": 5,
-      "category": "Noun",
+      "category": "Tool",
       "themes": [
         "sports"
       ]
@@ -3199,37 +3199,37 @@
       "id": 480,
       "word": "STALK",
       "length": 5,
-      "category": "Noun"
+      "category": "Place"
     },
     {
       "id": 481,
       "word": "STAMP",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 482,
       "word": "STATUS",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 483,
       "word": "STEEL",
       "length": 5,
-      "category": "Noun"
+      "category": "Material"
     },
     {
       "id": 484,
       "word": "STOCK",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 485,
       "word": "STONE",
       "length": 5,
-      "category": "Noun",
+      "category": "Material",
       "themes": [
         "nature"
       ]
@@ -3238,13 +3238,13 @@
       "id": 486,
       "word": "STOOL",
       "length": 5,
-      "category": "Noun"
+      "category": "Furniture"
     },
     {
       "id": 487,
       "word": "STORM",
       "length": 5,
-      "category": "Noun",
+      "category": "Weather",
       "themes": [
         "nature"
       ]
@@ -3253,13 +3253,13 @@
       "id": 488,
       "word": "STRAW",
       "length": 5,
-      "category": "Noun"
+      "category": "Material"
     },
     {
       "id": 489,
       "word": "STREAM",
       "length": 6,
-      "category": "Noun",
+      "category": "Landscape",
       "themes": [
         "nature"
       ]
@@ -3268,25 +3268,25 @@
       "id": 490,
       "word": "SYSTEM",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 491,
       "word": "TABLE",
       "length": 5,
-      "category": "Noun"
+      "category": "Furniture"
     },
     {
       "id": 492,
       "word": "TENOR",
       "length": 5,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 493,
       "word": "THEORY",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 494,
@@ -3298,7 +3298,7 @@
       "id": 495,
       "word": "TIMBER",
       "length": 6,
-      "category": "Noun",
+      "category": "Material",
       "themes": [
         "nature"
       ]
@@ -3313,13 +3313,13 @@
       "id": 497,
       "word": "TORCH",
       "length": 5,
-      "category": "Noun"
+      "category": "Tool"
     },
     {
       "id": 498,
       "word": "TRACK",
       "length": 5,
-      "category": "Noun",
+      "category": "Place",
       "themes": [
         "sports"
       ]
@@ -3328,7 +3328,7 @@
       "id": 499,
       "word": "TRAIL",
       "length": 5,
-      "category": "Noun",
+      "category": "Landscape",
       "themes": [
         "sports",
         "nature"
@@ -3338,7 +3338,7 @@
       "id": 500,
       "word": "TRAIN",
       "length": 5,
-      "category": "Noun",
+      "category": "Vehicle",
       "themes": [
         "sports"
       ]
@@ -3347,25 +3347,25 @@
       "id": 501,
       "word": "TRAIT",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 502,
       "word": "TREAT",
       "length": 5,
-      "category": "Noun"
+      "category": "Food"
     },
     {
       "id": 503,
       "word": "TREND",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 504,
       "word": "TRIAL",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 505,
@@ -3380,49 +3380,49 @@
       "id": 506,
       "word": "TRUCK",
       "length": 5,
-      "category": "Noun"
+      "category": "Vehicle"
     },
     {
       "id": 507,
       "word": "TRUST",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 508,
       "word": "TRUTH",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 509,
       "word": "TUNNEL",
       "length": 6,
-      "category": "Noun"
+      "category": "Building"
     },
     {
       "id": 510,
       "word": "UNION",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 511,
       "word": "UNITY",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 512,
       "word": "USAGE",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 513,
       "word": "VAPOR",
       "length": 5,
-      "category": "Noun",
+      "category": "Weather",
       "themes": [
         "nature"
       ]
@@ -3431,25 +3431,25 @@
       "id": 514,
       "word": "VENDOR",
       "length": 6,
-      "category": "Noun"
+      "category": "Profession"
     },
     {
       "id": 515,
       "word": "VERSE",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 516,
       "word": "VESSEL",
       "length": 6,
-      "category": "Noun"
+      "category": "Vehicle"
     },
     {
       "id": 517,
       "word": "VICTOR",
       "length": 6,
-      "category": "Noun",
+      "category": "Person",
       "themes": [
         "sports"
       ]
@@ -3458,25 +3458,25 @@
       "id": 518,
       "word": "VISION",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 519,
       "word": "VISTA",
       "length": 5,
-      "category": "Noun"
+      "category": "Landscape"
     },
     {
       "id": 520,
       "word": "VOLUME",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 521,
       "word": "VOWEL",
       "length": 5,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 522,
@@ -3488,7 +3488,7 @@
       "id": 523,
       "word": "WATER",
       "length": 5,
-      "category": "Noun",
+      "category": "Drink",
       "themes": [
         "nature"
       ]
@@ -3497,7 +3497,7 @@
       "id": 524,
       "word": "WEALTH",
       "length": 6,
-      "category": "Noun"
+      "category": "Concept"
     },
     {
       "id": 525,
@@ -3509,7 +3509,7 @@
       "id": 526,
       "word": "WINNER",
       "length": 6,
-      "category": "Noun",
+      "category": "Person",
       "themes": [
         "sports"
       ]
@@ -3518,7 +3518,7 @@
       "id": 527,
       "word": "WINTER",
       "length": 6,
-      "category": "Noun",
+      "category": "Weather",
       "themes": [
         "nature"
       ]
@@ -3527,25 +3527,25 @@
       "id": 528,
       "word": "WORKER",
       "length": 6,
-      "category": "Noun"
+      "category": "Profession"
     },
     {
       "id": 529,
       "word": "WORLD",
       "length": 5,
-      "category": "Noun"
+      "category": "Space"
     },
     {
       "id": 530,
       "word": "YOUTH",
       "length": 5,
-      "category": "Noun"
+      "category": "Person"
     },
     {
       "id": 531,
       "word": "ZODIAC",
       "length": 6,
-      "category": "Noun",
+      "category": "Concept",
       "themes": [
         "scrabble"
       ]
