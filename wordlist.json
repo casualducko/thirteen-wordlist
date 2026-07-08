@@ -47,6 +47,105 @@
   ],
   "words": [
     {
+      "id": 772,
+      "word": "PICCOLO",
+      "length": 7,
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
+    },
+    {
+      "id": 773,
+      "word": "BASSOON",
+      "length": 7,
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
+    },
+    {
+      "id": 774,
+      "word": "UKULELE",
+      "length": 7,
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
+    },
+    {
+      "id": 775,
+      "word": "CYMBAL",
+      "length": 6,
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
+    },
+    {
+      "id": 776,
+      "word": "BUGLE",
+      "length": 5,
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
+    },
+    {
+      "id": 777,
+      "word": "FIDDLE",
+      "length": 6,
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
+    },
+    {
+      "id": 778,
+      "word": "ORGAN",
+      "length": 5,
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
+    },
+    {
+      "id": 779,
+      "word": "TUBA",
+      "length": 4,
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
+    },
+    {
+      "id": 780,
+      "word": "OBOE",
+      "length": 4,
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
+    },
+    {
+      "id": 781,
+      "word": "HARP",
+      "length": 4,
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
+    },
+    {
+      "id": 782,
+      "word": "DRUM",
+      "length": 4,
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
+    },
+    {
       "id": 1,
       "word": "ABBEY",
       "length": 5,
