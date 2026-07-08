@@ -31,6 +31,10 @@
     {
       "id": "profession",
       "name": "Profession"
+    },
+    {
+      "id": "tool",
+      "name": "Tool"
     }
   ],
   "words": [
@@ -1591,7 +1595,10 @@
       "id": 236,
       "word": "ALARM",
       "length": 5,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 237,
@@ -1603,7 +1610,10 @@
       "id": 238,
       "word": "ANCHOR",
       "length": 6,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 239,
@@ -1672,7 +1682,10 @@
       "id": 248,
       "word": "BEACON",
       "length": 6,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 249,
@@ -1750,7 +1763,10 @@
       "id": 259,
       "word": "BOILER",
       "length": 6,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 260,
@@ -1816,7 +1832,10 @@
       "id": 269,
       "word": "BROOM",
       "length": 5,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 270,
@@ -1828,7 +1847,10 @@
       "id": 271,
       "word": "BUCKET",
       "length": 6,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 272,
@@ -1852,7 +1874,10 @@
       "id": 275,
       "word": "CAMERA",
       "length": 6,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 276,
@@ -1900,7 +1925,10 @@
       "id": 283,
       "word": "CHART",
       "length": 5,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 284,
@@ -1930,7 +1958,10 @@
       "id": 288,
       "word": "CLOCK",
       "length": 5,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 289,
@@ -2041,7 +2072,10 @@
       "id": 305,
       "word": "DEVICE",
       "length": 6,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 306,
@@ -2224,7 +2258,10 @@
       "id": 333,
       "word": "FILTER",
       "length": 6,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 334,
@@ -2245,7 +2282,10 @@
       "id": 336,
       "word": "FLASK",
       "length": 5,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 337,
@@ -2398,7 +2438,10 @@
       "id": 359,
       "word": "GRILL",
       "length": 5,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 360,
@@ -2425,13 +2468,19 @@
       "id": 363,
       "word": "HAMMER",
       "length": 6,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 364,
       "word": "HANDLE",
       "length": 6,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 365,
@@ -2473,7 +2522,10 @@
       "id": 370,
       "word": "HINGE",
       "length": 5,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 371,
@@ -2604,19 +2656,28 @@
       "id": 388,
       "word": "LAPTOP",
       "length": 6,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 389,
       "word": "LASER",
       "length": 5,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 390,
       "word": "LATCH",
       "length": 5,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 391,
@@ -2634,7 +2695,10 @@
       "id": 393,
       "word": "LEASH",
       "length": 5,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 394,
@@ -2664,7 +2728,10 @@
       "id": 398,
       "word": "MAGNET",
       "length": 6,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 399,
@@ -2699,7 +2766,8 @@
       "length": 5,
       "category": "Tool",
       "themes": [
-        "sports"
+        "sports",
+        "tool"
       ]
     },
     {
@@ -2757,7 +2825,10 @@
       "id": 412,
       "word": "MOTOR",
       "length": 5,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 413,
@@ -3061,7 +3132,10 @@
       "id": 457,
       "word": "SCREW",
       "length": 5,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 458,
@@ -3133,7 +3207,10 @@
       "id": 468,
       "word": "SPADE",
       "length": 5,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 469,
@@ -3145,7 +3222,10 @@
       "id": 470,
       "word": "SPEAR",
       "length": 5,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 471,
@@ -3172,7 +3252,10 @@
       "id": 474,
       "word": "SPOON",
       "length": 5,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 475,
@@ -3187,7 +3270,10 @@
       "id": 476,
       "word": "SPOUT",
       "length": 5,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 477,
@@ -3207,7 +3293,8 @@
       "length": 5,
       "category": "Tool",
       "themes": [
-        "sports"
+        "sports",
+        "tool"
       ]
     },
     {
@@ -3328,7 +3415,10 @@
       "id": 497,
       "word": "TORCH",
       "length": 5,
-      "category": "Tool"
+      "category": "Tool",
+      "themes": [
+        "tool"
+      ]
     },
     {
       "id": 498,
