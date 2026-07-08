@@ -35,6 +35,10 @@
     {
       "id": "tool",
       "name": "Tool"
+    },
+    {
+      "id": "instrument",
+      "name": "Instrument"
     }
   ],
   "words": [
@@ -2462,7 +2466,10 @@
       "id": 362,
       "word": "GUITAR",
       "length": 6,
-      "category": "Instrument"
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
     },
     {
       "id": 363,
@@ -2984,7 +2991,10 @@
       "id": 436,
       "word": "PIANO",
       "length": 5,
-      "category": "Instrument"
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
     },
     {
       "id": 437,
@@ -4814,13 +4824,19 @@
       "id": 659,
       "word": "ACCORDION",
       "length": 9,
-      "category": "Instrument"
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
     },
     {
       "id": 660,
       "word": "BAGPIPES",
       "length": 8,
-      "category": "Instrument"
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
     },
     {
       "id": 661,
@@ -4828,74 +4844,108 @@
       "length": 5,
       "category": "Instrument",
       "themes": [
-        "scrabble"
+        "scrabble",
+        "instrument"
       ]
     },
     {
       "id": 662,
       "word": "CELLO",
       "length": 5,
-      "category": "Instrument"
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
     },
     {
       "id": 663,
       "word": "CLARINET",
       "length": 8,
-      "category": "Instrument"
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
     },
     {
       "id": 664,
       "word": "DRUMKIT",
       "length": 7,
-      "category": "Instrument"
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
     },
     {
       "id": 665,
       "word": "DRUMS",
       "length": 5,
-      "category": "Instrument"
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
     },
     {
       "id": 666,
       "word": "FLUTE",
       "length": 5,
-      "category": "Instrument"
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
     },
     {
       "id": 667,
       "word": "HARMONICA",
       "length": 9,
-      "category": "Instrument"
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
     },
     {
       "id": 668,
       "word": "KEYBOARD",
       "length": 8,
-      "category": "Instrument"
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
     },
     {
       "id": 669,
       "word": "SAXOPHONE",
       "length": 9,
-      "category": "Instrument"
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
     },
     {
       "id": 670,
       "word": "TROMBONE",
       "length": 8,
-      "category": "Instrument"
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
     },
     {
       "id": 671,
       "word": "TRUMPET",
       "length": 7,
-      "category": "Instrument"
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
     },
     {
       "id": 672,
       "word": "VIOLIN",
       "length": 6,
-      "category": "Instrument"
+      "category": "Instrument",
+      "themes": [
+        "instrument"
+      ]
     },
     {
       "id": 673,
